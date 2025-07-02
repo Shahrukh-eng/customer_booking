@@ -44,7 +44,6 @@ Airlines want to better understand customer behavior and identify which users ar
 ## 📈 Results
 
 
-- Best model: XYZ
 - Accuracy: 85%
 - Key insight: Customers booking in the morning with more add-ons are more likely to complete their bookings.
 
